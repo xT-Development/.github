@@ -5,11 +5,6 @@
  <a>[Tebex](https://xtdev.tebex.io)</a> 
 </div>
 
-# About
-- Free and Paid FiveM/RedM Resources
-- FiveM Framework(s): qb-core & ox_core
-- RedM Framework(s): qr-core
-
 <div align="center">
   <a href="https://ko-fi.com/W7W2DTUIV"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi4.png?v=3" height="50" width="210" alt="aveek.saha" /></a>
 </div>
