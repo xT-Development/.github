@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="https://dsc.gg/xtdev"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/discord.svg" height="40" alt="Discord" /></a>
-<a href="https://xtdev.tebex.io"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/tebex.svg" height="40" alt="Store" /></a>
+<a href="https://discord.xthrasherrr.dev"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/discord.svg" height="40" alt="Discord" /></a>
+<a href="https://store.xthrasherrr.dev"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/tebex.svg" height="40" alt="Store" /></a>
 <a href="https://ko-fi.com/W7W2DTUIV"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/kofi.svg" height="40" alt="Ko-fi" /></a>
 </p>
