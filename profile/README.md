@@ -1,10 +1,18 @@
-<div align="center">
-  <a href="https://dsc.gg/xtdev"> <img align="center" src="https://github.com/xT-Development/.github/assets/101474430/d2fbd286-a0d5-4056-95cd-22cb3f526283" /></a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/header.gif" width="100%" alt="xT Development - FiveM & RedM Development" />
+</p>
 
-  <a>[Discord](https://dsc.gg/xtdev)</a> |
- <a>[Tebex](https://xtdev.tebex.io)</a> 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=lua,ts,js,svelte,react,tailwind,vite,nodejs,mysql&theme=dark" alt="Lua, TypeScript, JavaScript, Svelte, React, Tailwind, Vite, Node.js, MySQL" />
+</p>
 
-<div align="center">
-  <a href="https://ko-fi.com/W7W2DTUIV"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi4.png?v=3" height="50" width="210" alt="aveek.saha" /></a>
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/fivem.svg" height="36" alt="FiveM" />
+<img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/redm.svg" height="36" alt="RedM" />
+</p>
+
+<p align="center">
+<a href="https://dsc.gg/xtdev"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/discord.svg" height="40" alt="Discord" /></a>
+<a href="https://xtdev.tebex.io"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/tebex.svg" height="40" alt="Store" /></a>
+<a href="https://ko-fi.com/W7W2DTUIV"><img src="https://raw.githubusercontent.com/xT-Development/.github/main/profile/assets/kofi.svg" height="40" alt="Ko-fi" /></a>
+</p>
